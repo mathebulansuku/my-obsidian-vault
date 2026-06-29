@@ -1,13 +1,8 @@
 # my-obsidian-vault
 =======
-
 # Manny Knowledge Vault
 
-
-
 This vault is managed by Obsidian and OpenClaw.
-
-
 
 Main folders:
 
