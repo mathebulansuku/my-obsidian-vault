@@ -1,8 +1,8 @@
 ---
 type: kubestronaut-roadmap
 created: 2026-10-08
-programme_start: 2026-10-09
-programme_end: 2027-10-08
+programme_start: 2026-11-02
+programme_end: 2027-11-01
 timezone: Africa/Johannesburg
 tags:
   - kubestronaut
@@ -19,8 +19,8 @@ tags:
 
 ## Programme schedule
 
-- Start date: 2026-10-09
-- End date: 2027-10-08
+- Start date: 2026-11-02
+- End date: 2027-11-01
 - Study time: 07:00–09:00 SAST
 - Time zone: Africa/Johannesburg
 - Primary curriculum: KodeKloud Kubestronaut learning path, pending live verification against official sources.

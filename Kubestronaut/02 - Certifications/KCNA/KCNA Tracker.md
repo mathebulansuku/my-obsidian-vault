@@ -26,7 +26,7 @@ tags:
   - kcna
 status: not-started
 practice_exams_completed: 0
-last_reviewed: 2026-10-08
+last_reviewed: 2026-11-02
 readiness_gate_official_objectives: false
 readiness_gate_course_coverage: false
 readiness_gate_mock_exam: false
@@ -34,7 +34,7 @@ readiness_gate_time_management: false
 readiness_gate_weak_areas_reviewed: false
 readiness_gate_no_notes: false
 booking_decision: not-ready
-next_mock_exam: 2026-10-31 - KCNA Practice Assessment 1
+next_mock_exam: 2026-11-21 - KCNA Practice Assessment 1
 ---
 
 ## Target
@@ -82,12 +82,12 @@ KodeKloud lists Kubernetes and Cloud-Native Associate (KCNA) as the KCNA prepara
 
 ## Certification tasks
 
-- [ ] Verify current KCNA exam objectives against official CNCF/LF sources #kubestronaut #kcna 📅 2026-10-09
-- [ ] Verify current KodeKloud KCNA course structure #kubestronaut #kcna 📅 2026-10-09
-- [ ] Complete KCNA October foundation sessions #kubestronaut #kcna 📅 2026-10-31
-- [ ] Record first KCNA practice question score #kubestronaut #kcna #exam-readiness 📅 2026-10-31
-- [ ] Identify top five KCNA weak areas #kubestronaut #kcna #review 📅 2026-10-31
-- [ ] Decide whether KCNA is ready to book #kubestronaut #kcna #exam-readiness 📅 2026-11-07
+- [ ] Verify current KCNA exam objectives against official CNCF/LF sources #kubestronaut #kcna 📅 2026-11-02
+- [ ] Verify current KodeKloud KCNA course structure #kubestronaut #kcna 📅 2026-11-02
+- [ ] Complete KCNA November foundation sessions #kubestronaut #kcna 📅 2026-11-21
+- [ ] Record first KCNA practice question score #kubestronaut #kcna #exam-readiness 📅 2026-11-21
+- [ ] Identify top five KCNA weak areas #kubestronaut #kcna #review 📅 2026-11-21
+- [ ] Decide whether KCNA is ready to book #kubestronaut #kcna #exam-readiness 📅 2026-11-28
 
 ## Exam readiness gates
 
@@ -102,7 +102,7 @@ Use [[Exam Readiness Protocol]] before changing readiness_status or booking_deci
 | Weak areas reviewed | false |
 | Can perform without notes | false |
 | Booking decision | not-ready |
-| Next mock exam | [[2026-10-31 - KCNA Practice Assessment 1]] |
+| Next mock exam | [[2026-11-21 - KCNA Practice Assessment 1]] |
 
 ## Booking decision checklist
 

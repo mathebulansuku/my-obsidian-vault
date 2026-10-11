@@ -1,6 +1,6 @@
 ---
 type: kubestronaut-daily
-date: 2026-10-31
+date: 2026-11-21
 certification: KCNA
 topic: KCNA Practice Questions and Exam Readiness
 status: not-started
@@ -9,7 +9,7 @@ lesson_completed: false
 lab_completed: false
 confidence: 0
 mock_score:
-next_review: 2026-11-01
+next_review: 2026-11-22
 tags:
   - kubestronaut
   - kubernetes
@@ -37,7 +37,7 @@ recall_completed: false
 
 ### Required prerequisite knowledge
 
-- October KCNA learning sessions
+- November KCNA learning sessions
 - KCNA tracker objectives
 
 ### Important concepts
@@ -129,11 +129,11 @@ Confidence: 0/5
 
 ### Next revision date
 
-2026-11-01
+2026-11-22
 
 ## Daily execution tasks
 
-- [ ] Complete KCNA practice questions #kubestronaut #kcna #exam-readiness 📅 2026-10-31
+- [ ] Complete KCNA practice questions #kubestronaut #kcna #exam-readiness 📅 2026-11-21
 - [ ] Review wrong answers #kubestronaut #review #kcna 📅 2026-10-31
 - [ ] Document weak areas #kubestronaut #review #kcna 📅 2026-10-31
 - [ ] Update KCNA tracker #kubestronaut #kcna 📅 2026-10-31

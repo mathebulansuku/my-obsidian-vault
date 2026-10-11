@@ -1,6 +1,6 @@
 ---
 type: kubestronaut-daily
-date: 2026-10-16
+date: 2026-11-09
 certification: KCNA
 topic: Namespaces and Organization
 status: not-started
@@ -9,7 +9,7 @@ lesson_completed: false
 lab_completed: false
 confidence: 0
 mock_score:
-next_review: 2026-10-17
+next_review: 2026-11-10
 tags:
   - kubestronaut
   - kubernetes

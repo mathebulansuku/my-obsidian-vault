@@ -1,6 +1,6 @@
 ---
 type: kubestronaut-daily
-date: 2026-10-09
+date: 2026-11-02
 certification: KCNA
 topic: Cloud Native Foundations
 status: not-started
@@ -9,7 +9,7 @@ lesson_completed: false
 lab_completed: false
 confidence: 0
 mock_score:
-next_review: 2026-10-10
+next_review: 2026-11-03
 tags:
   - kubestronaut
   - kubernetes
@@ -149,16 +149,16 @@ Confidence: 0/5
 
 ### Next revision date
 
-2026-10-10
+2026-11-03
 
 ## Daily execution tasks
 
-- [ ] Complete today's KodeKloud lesson #kubestronaut #kcna 📅 2026-10-09
-- [ ] Complete today's Kubernetes lab #kubestronaut #lab #kcna 📅 2026-10-09
-- [ ] Document commands and findings #kubestronaut #lab 📅 2026-10-09
-- [ ] Answer active recall questions #kubestronaut #review #kcna 📅 2026-10-09
-- [ ] Update confidence rating #kubestronaut 📅 2026-10-09
-- [ ] Record actual study time #kubestronaut 📅 2026-10-09
+- [ ] Complete today's KodeKloud lesson #kubestronaut #kcna 📅 2026-11-02
+- [ ] Complete today's Kubernetes lab #kubestronaut #lab #kcna 📅 2026-11-02
+- [ ] Document commands and findings #kubestronaut #lab 📅 2026-11-02
+- [ ] Answer active recall questions #kubestronaut #review #kcna 📅 2026-11-02
+- [ ] Update confidence rating #kubestronaut 📅 2026-11-02
+- [ ] Record actual study time #kubestronaut 📅 2026-11-02
 
 ## Completion criteria
 

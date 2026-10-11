@@ -1,6 +1,6 @@
 ---
 type: kubestronaut-daily
-date: 2026-10-11
+date: 2026-11-04
 certification: KCNA
 topic: Pods
 status: not-started
@@ -9,7 +9,7 @@ lesson_completed: false
 lab_completed: false
 confidence: 0
 mock_score:
-next_review: 2026-10-12
+next_review: 2026-11-05
 tags:
   - kubestronaut
   - kubernetes

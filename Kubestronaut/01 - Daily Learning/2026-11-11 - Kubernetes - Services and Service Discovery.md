@@ -1,6 +1,6 @@
 ---
 type: kubestronaut-daily
-date: 2026-10-18
+date: 2026-11-11
 certification: KCNA
 topic: Services and Service Discovery
 status: not-started
@@ -9,7 +9,7 @@ lesson_completed: false
 lab_completed: false
 confidence: 0
 mock_score:
-next_review: 2026-10-19
+next_review: 2026-11-12
 tags:
   - kubestronaut
   - kubernetes

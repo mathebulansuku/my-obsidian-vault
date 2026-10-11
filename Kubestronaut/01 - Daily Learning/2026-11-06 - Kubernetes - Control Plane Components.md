@@ -1,6 +1,6 @@
 ---
 type: kubestronaut-daily
-date: 2026-10-14
+date: 2026-11-06
 certification: KCNA
 topic: Control Plane Components
 status: not-started
@@ -9,7 +9,7 @@ lesson_completed: false
 lab_completed: false
 confidence: 0
 mock_score:
-next_review: 2026-10-15
+next_review: 2026-11-08
 tags:
   - kubestronaut
   - kubernetes

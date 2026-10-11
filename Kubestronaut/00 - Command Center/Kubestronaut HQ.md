@@ -1,8 +1,8 @@
 ---
 type: kubestronaut-dashboard
 created: 2026-10-08
-programme_start: 2026-10-09
-programme_end: 2027-10-08
+programme_start: 2026-11-02
+programme_end: 2027-11-01
 timezone: Africa/Johannesburg
 study_window: 07:00-09:00
 status: active
@@ -24,15 +24,15 @@ build_status: "[[Kubestronaut Build Status]]"
 
 | Field | Value |
 |---|---|
-| Programme start date | 2026-10-09 |
-| Target completion date | 2027-10-08 |
-| Current programme day | Not started until 2026-10-09 |
+| Programme start date | 2026-11-02 |
+| Target completion date | 2027-11-01 |
+| Current programme day | Not started until 2026-11-02 |
 | Total scheduled study days | Pending full calendar generation |
 | Completed study sessions | 0 |
 | Total study hours | 0 |
 | Current certification | KCNA |
 | Current learning topic | Cloud native and Kubernetes foundations |
-| Next scheduled session | [[2026-10-09 - Kubernetes - Cloud Native Foundations]] |
+| Next scheduled session | [[2026-11-02 - Kubernetes - Cloud Native Foundations]] |
 | Next certification milestone | KCNA target: November 2026 |
 
 ## Quick navigation

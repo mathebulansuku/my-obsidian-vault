@@ -9,7 +9,7 @@ actual_minutes: 0
 status: not-started
 repeat_required: false
 repeat_reason:
-source_daily_note: [[2026-10-09 - Kubernetes - Cloud Native Foundations]]
+source_daily_note: [[2026-11-02 - Kubernetes - Cloud Native Foundations]]
 commands_practiced:
   - kubectl version --client
   - kubectl config current-context
@@ -76,9 +76,9 @@ kubectl get pods -A
 
 ## Tasks
 
-- [ ] Complete environment and cluster inspection lab #kubestronaut #lab #kcna 📅 2026-10-09
-- [ ] Record actual command output summary #kubestronaut #lab 📅 2026-10-09
-- [ ] Update actual_minutes after lab #kubestronaut #lab 📅 2026-10-09
+- [ ] Complete environment and cluster inspection lab #kubestronaut #lab #kcna 📅 2026-11-02
+- [ ] Record actual command output summary #kubestronaut #lab 📅 2026-11-02
+- [ ] Update actual_minutes after lab #kubestronaut #lab 📅 2026-11-02
 
 ## Lessons learned
 

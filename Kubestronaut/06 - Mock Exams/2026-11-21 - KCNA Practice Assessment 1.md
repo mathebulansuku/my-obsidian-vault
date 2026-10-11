@@ -1,6 +1,6 @@
 ---
 type: kubestronaut-mock-exam
-date: 2026-10-31
+date: 2026-11-21
 certification: KCNA
 provider:
 exam_name: KCNA Practice Assessment 1
@@ -19,8 +19,10 @@ status: scheduled
 readiness_impact: baseline
 follow_up_completed: false
 weak_areas: []
-linked_tracker: [[KCNA Tracker]]
-linked_review: [[Weak Area Register]]
+linked_tracker:
+  - - KCNA Tracker
+linked_review:
+  - - Weak Area Register
 tags:
   - kubestronaut
   - mock-exam
@@ -30,7 +32,7 @@ tags:
 
 ## Mock exam summary
 
-Scheduled baseline KCNA practice assessment after the October KCNA learning block.
+Scheduled baseline KCNA practice assessment after the November KCNA learning block.
 
 ## Score
 
@@ -69,9 +71,9 @@ Scheduled baseline KCNA practice assessment after the October KCNA learning bloc
 
 ## Follow-up tasks
 
-- [ ] Complete KCNA Practice Assessment 1 #kubestronaut #kcna #mock-exam #exam-readiness 📅 2026-10-31
-- [ ] Review incorrect KCNA practice answers #kubestronaut #kcna #review 📅 2026-11-01
-- [ ] Add missed KCNA concepts to [[Weak Area Register]] #kubestronaut #kcna #review 📅 2026-11-01
+- [ ] Complete KCNA Practice Assessment 1 #kubestronaut #kcna #mock-exam #exam-readiness 📅 2026-11-21
+- [ ] Review incorrect KCNA practice answers #kubestronaut #kcna #review 📅 2026-11-22
+- [ ] Add missed KCNA concepts to [[Weak Area Register]] #kubestronaut #kcna #review 📅 2026-11-22
 - [ ] Update [[KCNA Tracker]] practice exam fields after review #kubestronaut #kcna #exam-readiness 📅 2026-11-01
 
 ## Flashcards

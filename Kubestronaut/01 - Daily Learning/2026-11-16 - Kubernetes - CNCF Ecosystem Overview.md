@@ -1,6 +1,6 @@
 ---
 type: kubestronaut-daily
-date: 2026-10-27
+date: 2026-11-16
 certification: KCNA
 topic: CNCF Ecosystem Overview
 status: not-started
@@ -9,7 +9,7 @@ lesson_completed: false
 lab_completed: false
 confidence: 0
 mock_score:
-next_review: 2026-10-28
+next_review: 2026-11-17
 tags:
   - kubestronaut
   - kubernetes

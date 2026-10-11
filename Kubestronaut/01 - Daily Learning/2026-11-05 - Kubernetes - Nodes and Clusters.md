@@ -1,6 +1,6 @@
 ---
 type: kubestronaut-daily
-date: 2026-10-12
+date: 2026-11-05
 certification: KCNA
 topic: Nodes and Clusters
 status: not-started
@@ -9,7 +9,7 @@ lesson_completed: false
 lab_completed: false
 confidence: 0
 mock_score:
-next_review: 2026-10-14
+next_review: 2026-11-06
 tags:
   - kubestronaut
   - kubernetes

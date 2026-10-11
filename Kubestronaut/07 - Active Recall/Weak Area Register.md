@@ -70,4 +70,4 @@ SORT date DESC
 
 | Date added | Weak area | Source | Next action | Due | Status |
 |---|---|---|---|---:|---|
-| 2026-10-08 | KCNA initial weak areas unknown until first review | [[KCNA Tracker]] | Complete first KCNA recall/lab cycle | 2026-10-31 | open |
+| 2026-10-08 | KCNA initial weak areas unknown until first review | [[KCNA Tracker]] | Complete first KCNA recall/lab cycle | 2026-11-21 | open |

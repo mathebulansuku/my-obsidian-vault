@@ -1,6 +1,6 @@
 ---
 type: kubestronaut-daily
-date: 2026-10-19
+date: 2026-11-12
 certification: KCNA
 topic: ConfigMaps and Secrets
 status: not-started
@@ -9,7 +9,7 @@ lesson_completed: false
 lab_completed: false
 confidence: 0
 mock_score:
-next_review: 2026-10-20
+next_review: 2026-11-13
 tags:
   - kubestronaut
   - kubernetes

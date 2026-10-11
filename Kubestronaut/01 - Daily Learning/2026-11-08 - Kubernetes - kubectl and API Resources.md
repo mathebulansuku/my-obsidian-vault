@@ -1,6 +1,6 @@
 ---
 type: kubestronaut-daily
-date: 2026-10-15
+date: 2026-11-08
 certification: KCNA
 topic: kubectl and API Resources
 status: not-started
@@ -9,7 +9,7 @@ lesson_completed: false
 lab_completed: false
 confidence: 0
 mock_score:
-next_review: 2026-10-16
+next_review: 2026-11-09
 tags:
   - kubestronaut
   - kubernetes

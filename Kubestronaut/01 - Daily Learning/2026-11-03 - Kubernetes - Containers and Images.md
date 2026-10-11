@@ -1,6 +1,6 @@
 ---
 type: kubestronaut-daily
-date: 2026-10-10
+date: 2026-11-03
 certification: KCNA
 topic: Containers and Images
 status: not-started
@@ -9,7 +9,7 @@ lesson_completed: false
 lab_completed: false
 confidence: 0
 mock_score:
-next_review: 2026-10-11
+next_review: 2026-11-04
 tags:
   - kubestronaut
   - kubernetes
@@ -138,9 +138,9 @@ Confidence: 0/5
 
 ## Daily execution tasks
 
-- [ ] Complete today's KodeKloud lesson #kubestronaut #kcna 📅 2026-10-10
-- [ ] Complete today's Kubernetes lab #kubestronaut #lab #kcna 📅 2026-10-10
-- [ ] Document commands and findings #kubestronaut #lab 📅 2026-10-10
+- [ ] Complete today's KodeKloud lesson #kubestronaut #kcna 📅 2026-11-03
+- [ ] Complete today's Kubernetes lab #kubestronaut #lab #kcna 📅 2026-11-03
+- [ ] Document commands and findings #kubestronaut #lab 📅 2026-11-03
 - [ ] Answer active recall questions #kubestronaut #review #kcna 📅 2026-10-10
 - [ ] Update confidence rating #kubestronaut 📅 2026-10-10
 - [ ] Record actual study time #kubestronaut 📅 2026-10-10

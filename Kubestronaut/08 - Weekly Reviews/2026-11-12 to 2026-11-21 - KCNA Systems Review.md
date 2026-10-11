@@ -1,7 +1,7 @@
 ---
 type: kubestronaut-weekly-review
-week_start: 2026-10-19
-week_end: 2026-10-31
+week_start: 2026-11-12
+week_end: 2026-11-21
 certification_focus: KCNA
 study_hours: 0
 labs_completed: 0
@@ -38,7 +38,7 @@ stale_items_found: 0
 
 ## Next actions
 
-- [ ] Record first KCNA practice score #kubestronaut #kcna #exam-readiness 📅 2026-10-31
-- [ ] Update KCNA weak areas #kubestronaut #weekly-review #review 📅 2026-10-31
-- [ ] Plan November KCNA final review #kubestronaut #kcna #review 📅 2026-10-31
+- [ ] Record first KCNA practice score #kubestronaut #kcna #exam-readiness 📅 2026-11-21
+- [ ] Update KCNA weak areas #kubestronaut #weekly-review #review 📅 2026-11-21
+- [ ] Plan November KCNA final review #kubestronaut #kcna #review 📅 2026-11-21
 - [ ] Set next_review dates for low-confidence topics #kubestronaut #review 📅 2026-10-31

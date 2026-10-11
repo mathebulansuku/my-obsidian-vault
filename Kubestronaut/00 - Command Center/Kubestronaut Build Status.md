@@ -41,8 +41,8 @@ The Kubestronaut vault system has completed its initial 10-stage build.
 
 - Active certification: [[KCNA Tracker]]
 - Current roadmap: [[Learning Roadmap]]
-- Current monthly review: [[2026-10 - Monthly Review]]
-- First scheduled mock: [[2026-10-31 - KCNA Practice Assessment 1]]
+- Current monthly review: [[2026-11 - Monthly Review]]
+- First scheduled mock: [[2026-11-21 - KCNA Practice Assessment 1]]
 
 ## System principles
 

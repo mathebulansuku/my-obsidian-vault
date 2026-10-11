@@ -1,7 +1,7 @@
 ---
 type: kubestronaut-weekly-review
-week_start: 2026-10-09
-week_end: 2026-10-18
+week_start: 2026-11-02
+week_end: 2026-11-11
 certification_focus: KCNA
 study_hours: 0
 labs_completed: 0

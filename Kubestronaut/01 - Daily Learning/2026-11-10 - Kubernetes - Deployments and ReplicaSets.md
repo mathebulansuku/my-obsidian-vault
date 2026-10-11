@@ -1,6 +1,6 @@
 ---
 type: kubestronaut-daily
-date: 2026-10-17
+date: 2026-11-10
 certification: KCNA
 topic: Deployments and ReplicaSets
 status: not-started
@@ -9,7 +9,7 @@ lesson_completed: false
 lab_completed: false
 confidence: 0
 mock_score:
-next_review: 2026-10-18
+next_review: 2026-11-11
 tags:
   - kubestronaut
   - kubernetes

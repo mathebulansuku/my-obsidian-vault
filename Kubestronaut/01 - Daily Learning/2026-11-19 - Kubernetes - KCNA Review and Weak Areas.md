@@ -1,6 +1,6 @@
 ---
 type: kubestronaut-daily
-date: 2026-10-30
+date: 2026-11-19
 certification: KCNA
 topic: KCNA Review and Weak Areas
 status: not-started
@@ -9,7 +9,7 @@ lesson_completed: false
 lab_completed: false
 confidence: 0
 mock_score:
-next_review: 2026-10-31
+next_review: 2026-11-21
 tags:
   - kubestronaut
   - kubernetes
@@ -36,7 +36,7 @@ recall_completed: false
 
 ### Required prerequisite knowledge
 
-- October KCNA sessions completed so far.
+- November KCNA sessions completed so far.
 
 ### Important concepts
 
@@ -135,7 +135,7 @@ Confidence: 0/5
 
 ### Next revision date
 
-2026-10-31
+2026-11-21
 
 ## Daily execution tasks
 

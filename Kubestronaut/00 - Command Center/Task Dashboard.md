@@ -111,11 +111,11 @@ sort by due
 Use standard Markdown task syntax with Tasks plugin date emojis:
 
 ```markdown
-- [ ] Complete today's KodeKloud lesson #kubestronaut #kcna 📅 2026-10-09
-- [ ] Complete today's Kubernetes lab #kubestronaut #lab 📅 2026-10-09
-- [ ] Document commands and findings #kubestronaut 📅 2026-10-09
-- [ ] Answer active recall questions #kubestronaut #review 📅 2026-10-09
-- [ ] Record actual study time #kubestronaut 📅 2026-10-09
+- [ ] Complete today's KodeKloud lesson #kubestronaut #kcna 📅 2026-11-02
+- [ ] Complete today's Kubernetes lab #kubestronaut #lab 📅 2026-11-02
+- [ ] Document commands and findings #kubestronaut 📅 2026-11-02
+- [ ] Answer active recall questions #kubestronaut #review 📅 2026-11-02
+- [ ] Record actual study time #kubestronaut 📅 2026-11-02
 ```
 
 ## Rules

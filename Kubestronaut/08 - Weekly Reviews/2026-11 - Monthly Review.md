@@ -1,6 +1,6 @@
 ---
 type: kubestronaut-monthly-review
-month: 2026-10
+month: 2026-11
 certification_focus: KCNA
 study_hours: 0
 completed_sessions: 0
@@ -8,7 +8,7 @@ completed_labs: 0
 mock_exams_completed: 0
 review_status: scheduled
 readiness_change: baseline
-next_month_focus: KCNA final review and exam readiness
+next_month_focus: KCNA final review and exam booking decision
 created: 2026-10-08
 tags:
   - kubestronaut
@@ -18,7 +18,7 @@ tags:
 
 ## Monthly summary
 
-October 2026 is the KCNA foundation month.
+November 2026 is the KCNA foundation month.
 
 ## Study consistency
 
@@ -30,7 +30,7 @@ October 2026 is the KCNA foundation month.
 ```dataview
 TABLE date, topic, status, actual_minutes, confidence
 FROM "Kubestronaut/01 - Daily Learning"
-WHERE type = "kubestronaut-daily" AND date >= date(2026-10-01) AND date <= date(2026-10-31)
+WHERE type = "kubestronaut-daily" AND date >= date(2026-11-01) AND date <= date(2026-11-30)
 SORT date ASC
 ```
 
@@ -73,7 +73,7 @@ SORT date ASC
 
 ## Tasks
 
-- [ ] Complete October KCNA monthly review #kubestronaut #monthly-review #kcna 📅 2026-10-31
-- [ ] Update [[KCNA Tracker]] after October review #kubestronaut #monthly-review #certification 📅 2026-10-31
-- [ ] Transfer unresolved weak areas to [[Weak Area Register]] #kubestronaut #monthly-review #review 📅 2026-10-31
+- [ ] Complete November KCNA monthly review #kubestronaut #monthly-review #kcna 📅 2026-11-30
+- [ ] Update [[KCNA Tracker]] after October review #kubestronaut #monthly-review #certification 📅 2026-11-30
+- [ ] Transfer unresolved weak areas to [[Weak Area Register]] #kubestronaut #monthly-review #review 📅 2026-11-30
 - [ ] Set November KCNA final review focus #kubestronaut #monthly-review #kcna 📅 2026-10-31

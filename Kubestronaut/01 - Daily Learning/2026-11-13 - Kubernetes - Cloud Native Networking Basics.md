@@ -1,6 +1,6 @@
 ---
 type: kubestronaut-daily
-date: 2026-10-20
+date: 2026-11-13
 certification: KCNA
 topic: Cloud Native Networking Basics
 status: not-started
@@ -9,7 +9,7 @@ lesson_completed: false
 lab_completed: false
 confidence: 0
 mock_score:
-next_review: 2026-10-21
+next_review: 2026-11-14
 tags:
   - kubestronaut
   - kubernetes

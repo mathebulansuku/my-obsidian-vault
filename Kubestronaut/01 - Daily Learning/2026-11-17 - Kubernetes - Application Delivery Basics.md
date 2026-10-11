@@ -1,6 +1,6 @@
 ---
 type: kubestronaut-daily
-date: 2026-10-28
+date: 2026-11-17
 certification: KCNA
 topic: Application Delivery Basics
 status: not-started
@@ -9,7 +9,7 @@ lesson_completed: false
 lab_completed: false
 confidence: 0
 mock_score:
-next_review: 2026-10-29
+next_review: 2026-11-18
 tags:
   - kubestronaut
   - kubernetes
